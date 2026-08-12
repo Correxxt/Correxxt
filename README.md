@@ -14,8 +14,16 @@ Product-minded and hands-on, I like turning rough workflows into straightforward
   <img src="assets/icons/python.svg" width="32" height="32" alt="Python" title="Python">
   <img src="assets/icons/lua.svg" width="32" height="32" alt="Lua" title="Lua">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/gdscript-dark.svg">
+    <img src="assets/icons/gdscript.svg" width="32" height="32" alt="GDScript" title="GDScript">
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/icons/rust-dark.svg">
     <img src="assets/icons/rust.svg" width="32" height="32" alt="Rust" title="Rust">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/bash-dark.svg">
+    <img src="assets/icons/bash.svg" width="32" height="32" alt="Bash" title="Bash">
   </picture>
   <img src="assets/icons/html.svg" width="32" height="32" alt="HTML" title="HTML">
   <img src="assets/icons/css.svg" width="32" height="32" alt="CSS" title="CSS">
