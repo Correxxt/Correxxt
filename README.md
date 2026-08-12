@@ -75,6 +75,11 @@ Product-minded and hands-on, I like turning rough ideas into straightforward sol
     <source media="(prefers-color-scheme: light)" srcset="assets/projects/british-airways-ndc-light.png">
     <img src="assets/projects/british-airways-ndc-light.png" width="96" height="96" alt="British Airways NDC" title="British Airways NDC">
   </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/ifs-customer-pulse-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/projects/ifs-customer-pulse-light.png">
+    <img src="assets/projects/ifs-customer-pulse-light.png" width="96" height="96" alt="IFS Customer Pulse" title="IFS Customer Pulse">
+  </picture>
 </p>
 
 [tandemry.dev](https://tandemry.dev)
