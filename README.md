@@ -2,7 +2,7 @@
 
 Building useful software across product, automation, and applied AI.
 
-Product-minded and hands-on, I like turning rough workflows into straightforward software.
+Product-minded and hands-on, I like turning rough ideas into straightforward solutions.
 
 ## Toolkit
 
