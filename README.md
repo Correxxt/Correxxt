@@ -31,6 +31,10 @@ Product-minded and hands-on, I like turning rough workflows into straightforward
   </picture>
   <img src="assets/icons/nodejs.svg" width="32" height="32" alt="Node.js" title="Node.js">
   <img src="assets/icons/tauri.svg" width="32" height="32" alt="Tauri" title="Tauri">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/authentik-dark.svg">
+    <img src="assets/icons/authentik.svg" width="32" height="32" alt="authentik" title="authentik">
+  </picture>
   <img src="assets/icons/supabase.svg" width="32" height="32" alt="Supabase" title="Supabase">
   <img src="assets/icons/postgresql.svg" width="32" height="32" alt="PostgreSQL" title="PostgreSQL">
   <img src="assets/icons/godot.svg" width="32" height="32" alt="Godot" title="Godot">
