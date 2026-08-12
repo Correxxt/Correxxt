@@ -56,8 +56,12 @@ Product-minded and hands-on, I like turning rough workflows into straightforward
 
 <p>
   <img src="assets/icons/figma.svg" width="32" height="32" alt="Figma" title="Figma">
+  <img src="assets/icons/vscode.svg" width="32" height="32" alt="Visual Studio Code" title="Visual Studio Code">
   <img src="assets/icons/git.svg" width="32" height="32" alt="Git" title="Git">
   <img src="assets/icons/github-actions.svg" width="32" height="32" alt="GitHub Actions" title="GitHub Actions">
+  <img src="assets/icons/power-apps.svg" width="32" height="32" alt="Power Apps" title="Power Apps">
+  <img src="assets/icons/power-automate.svg" width="32" height="32" alt="Power Automate" title="Power Automate">
+  <img src="assets/icons/power-bi.svg" width="32" height="32" alt="Power BI" title="Power BI">
 </p>
 
 [tandemry.dev](https://tandemry.dev)
