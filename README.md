@@ -12,6 +12,7 @@ Product-minded and hands-on, I like turning rough workflows into straightforward
   <img src="assets/icons/typescript.svg" width="32" height="32" alt="TypeScript" title="TypeScript">
   <img src="assets/icons/javascript.svg" width="32" height="32" alt="JavaScript" title="JavaScript">
   <img src="assets/icons/python.svg" width="32" height="32" alt="Python" title="Python">
+  <img src="assets/icons/lua.svg" width="32" height="32" alt="Lua" title="Lua">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/icons/rust-dark.svg">
     <img src="assets/icons/rust.svg" width="32" height="32" alt="Rust" title="Rust">
@@ -33,6 +34,10 @@ Product-minded and hands-on, I like turning rough workflows into straightforward
   <img src="assets/icons/supabase.svg" width="32" height="32" alt="Supabase" title="Supabase">
   <img src="assets/icons/postgresql.svg" width="32" height="32" alt="PostgreSQL" title="PostgreSQL">
   <img src="assets/icons/godot.svg" width="32" height="32" alt="Godot" title="Godot">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/roblox-studio-dark.svg">
+    <img src="assets/icons/roblox-studio.svg" width="32" height="32" alt="Roblox Studio" title="Roblox Studio">
+  </picture>
 </p>
 
 **Tools**
