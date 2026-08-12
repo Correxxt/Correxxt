@@ -62,6 +62,9 @@ Product-minded and hands-on, I like turning rough ideas into straightforward sol
   <img src="assets/icons/power-apps.svg" width="32" height="32" alt="Power Apps" title="Power Apps">
   <img src="assets/icons/power-automate.svg" width="32" height="32" alt="Power Automate" title="Power Automate">
   <img src="assets/icons/power-bi.svg" width="32" height="32" alt="Power BI" title="Power BI">
+  <img src="assets/icons/power-pages.svg" width="32" height="32" alt="Power Pages" title="Power Pages">
+  <img src="assets/icons/ifs-cloud.svg" width="32" height="32" alt="IFS Cloud" title="IFS Cloud">
+  <img src="assets/icons/discord-developer.svg" width="32" height="32" alt="Discord Developer Platform" title="Discord Developer Platform">
 </p>
 
 [tandemry.dev](https://tandemry.dev)
