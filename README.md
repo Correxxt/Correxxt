@@ -67,4 +67,14 @@ Product-minded and hands-on, I like turning rough ideas into straightforward sol
   <img src="assets/icons/discord-developer.svg" width="32" height="32" alt="Discord Developer Platform" title="Discord Developer Platform">
 </p>
 
+**External projects**
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/british-airways-ndc-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/projects/british-airways-ndc-light.png">
+    <img src="assets/projects/british-airways-ndc-light.png" width="96" height="96" alt="British Airways NDC" title="British Airways NDC">
+  </picture>
+</p>
+
 [tandemry.dev](https://tandemry.dev)
